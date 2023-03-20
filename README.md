@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou a Gabriela Yasmin
 
 <!--
 **gabyyasmindesouza/gabyyasmindesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
